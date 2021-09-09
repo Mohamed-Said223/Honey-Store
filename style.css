@@ -1,5 +1,6 @@
 *{
   font-family: Calibri;
+  box-sizing: border-box;
 }
 body{
   margin: 0;
@@ -289,7 +290,7 @@ h2{
   display: inline;
 }
 #vv{ 
-  width: auto;
+  width: 100%;
   height: 450px;
   position: top-left;
 }
@@ -305,11 +306,11 @@ h2{
 
 
 #qq{
-  width: 400px;
+  width: 100%;
   height: 450px;
 }
 #ii{
-  width: 300px;
+  width: 100%;
   height: 200px;
 }
 #oo{
